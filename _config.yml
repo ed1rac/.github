@@ -1,0 +1,5 @@
+theme: jekyll-theme-primer
+title: "🌐 Hub Global de Comunidade & Governança — @ed1rac"
+description: "Diretrizes de comunidade, código de conduta e modelos de colaboração open-source do Prof. Edkallenn."
+kramdown:
+  parse_block_html: true

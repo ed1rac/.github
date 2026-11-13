@@ -1,14 +1,13 @@
 # 🌐 Hub Global de Comunidade & Governança — @ed1rac
 
 <div align="center">
-
-[![GitHub Profile](https://img.shields.io/badge/GitHub-@ed1rac-181717?style=for-the-badge&logo=github)](https://github.com/ed1rac)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](./LICENSE)
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=for-the-badge)](./.github/CODE_OF_CONDUCT.md)
-[![Buy Me A Coffee](https://img.shields.io/badge/☕_Buy_Me_a_Coffee-Apoiar-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/edkallenn)
-
-**Repositório central de saúde comunitária, templates universais de colaboração e padrões abertos para os projetos mantidos pelo Professor Edkallenn Silva de Lima.**
-
+  <p>
+    <a href="https://github.com/ed1rac"><img src="https://img.shields.io/badge/GitHub-@ed1rac-181717?style=for-the-badge&logo=github" alt="GitHub Profile"></a>
+    <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License: MIT"></a>
+    <a href="./.github/CODE_OF_CONDUCT.md"><img src="https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=for-the-badge" alt="Contributor Covenant"></a>
+    <a href="https://buymeacoffee.com/edkallenn"><img src="https://img.shields.io/badge/☕_Buy_Me_a_Coffee-Apoiar-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
+  </p>
+  <p><strong>Repositório central de saúde comunitária, templates universais de colaboração e padrões abertos para os projetos mantidos pelo Professor Edkallenn Silva de Lima.</strong></p>
 </div>
 
 ---
